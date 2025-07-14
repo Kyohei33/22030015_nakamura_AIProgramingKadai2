@@ -7,6 +7,6 @@
 
 ##　システム図
 
-<!--  ![image](./image.png)  -->
+![image](./image.png)
 
 ##　コード説明図
