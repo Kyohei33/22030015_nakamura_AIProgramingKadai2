@@ -13,10 +13,9 @@
 - 名詞／動詞の出現数表示
 - 総文字数・単語数・文数の統計
 
-
-## デプロイURL
-- アプリURL：https://xxxxx.streamlit.app  
-- GitHub URL：https://github.com/xxxxx
+<!-- ## デプロイURL
+- アプリURL：https://22030015nakamuraaiprograming2assignment-xliehkfejmosesk8t4wbsw.streamlit.app/ 
+- GitHub URL：https://github.com/Kyohei33/22030015_nakamura_AIPrograming2assignment.git -->
 
 ## システム設計図
 ![system](streamlit_architecture_system.jpg)
