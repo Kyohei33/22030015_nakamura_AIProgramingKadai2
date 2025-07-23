@@ -1,12 +1,25 @@
-# streamlit-example
-夏休み課題例
+# 日本語テキスト解析くん（Streamlitアプリ）
 
-このアプリは、ユーザーからｘｘｘを受け取って、ｘｘｘＡＰＩを使って、ｘｘｘ処理をして、ｘｘを表示します
+## アプリの説明
+ユーザーが入力した日本語テキストやアップロードした.txtファイルを解析し、単語の出現回数や名詞／動詞の分布などを表示します。
 
-（.mdは、マークダウン記法とい書き方です。調べると出てきます。）
+## 使用API（ライブラリ）
+- Janome（日本語形態素解析）
 
-##　システム図
+## 機能
+- 入力欄からテキストを直接入力
+- .txtファイルをアップロードして解析
+- 単語の出現回数ランキング表示
+- 名詞／動詞の出現数表示
+- 総文字数・単語数・文数の統計
 
-![image](./image.png)
 
-##　コード説明図
+## デプロイURL
+- アプリURL：https://xxxxx.streamlit.app  
+- GitHub URL：https://github.com/xxxxx
+
+## システム設計図
+![system](streamlit_architecture_system.jpg)
+
+## コード構造図
+![code](streamlit_architecture_code.jpg)
