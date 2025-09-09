@@ -22,3 +22,7 @@
 
 ## コード構造図
 ![code](streamlit_architecture_code.jpg)
+
+
+## 課題3: 夏休み課題改善案
+[improvement.md](./improvement.md) にまとめました。
